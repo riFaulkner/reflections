@@ -1,0 +1,30 @@
+In this lession the importance of diff was shown.
+It is a powerful tool that can be used to find differences in two files.
+ When looking for an error that occurs in a new version one can just perform a diff to look soley at the lines of code that are differnet to each version.
+
+Having easy access to all versions of a file could make me a more effiecent programmer 
+ because in having these I can look back at whenever a change was made, so if part of 
+ the code breaks and there are no errors in the immediate changes I can go back and look
+ for changes in other versions that might be the cause of the issue.
+
+Pros of choosing when to do the commit manually are that they can be meaningful
+ and well documented changes. This makes it easier when you need to look at previous versions.
+Cons of not having automated commits are that commits are subject to human error
+
+I think the main users and what they will be using the version control for have a large impact
+ on how the VCS handles commits, either single file or multifile. For code based situations 
+ many of the files will interact together making multifile saving benifitial.
+
+Git log and git diff can be used to veiw the history of a file as follows. First one can use git log
+ to display the different commits that have occured. Then they can use a git diff to find the small 
+ neuances in the changes that were made. 
+
+With version control the concequences of making changes to the code are minimal. If a change you make
+ ends up breaking the code one can simple revert to older versions of the code. Also it makes debugging 
+ pieces much easier so if the code you write breaks something later you can still have a copy of the code
+ that had been altered.
+
+I want to use git to manage my home and school programming projects. This will be a tool that can make many 
+ of the things I do often much simpler, as well as be a valuable tool to use.
+
+ 
