@@ -1,0 +1,8 @@
+When a repository is initialized git takes information about the repository,
+ such as where it is and then tracks what files are in it for later use.
+ In all honesty Im not too sure what it does this is just my best guess.
+
+The stating area is different form the working directory because it is like 
+ a snapshot of where your working directory is before a commit. This gives the
+ user more flexablitly and control over what files a commit will change. 
+
