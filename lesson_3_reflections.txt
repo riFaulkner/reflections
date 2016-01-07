@@ -1,0 +1,5 @@
+You almost always want to use a remote repository rather than keeping everything on a local machine. 
+ Using a remote repo makes it easy to transfer between devices as well as let other people contribute
+ to the work that you are doing. Also having a copy elsewhere makes it so if one device fails your 
+ work is still safe and sound.
+ 
