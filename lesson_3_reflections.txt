@@ -3,3 +3,23 @@ You almost always want to use a remote repository rather than keeping everything
  to the work that you are doing. Also having a copy elsewhere makes it so if one device fails your 
  work is still safe and sound.
  
+One would want to always pull changes manually for the control over the changes being made. If GitHub 
+ were to try and automatically keep up to date then confilcts could arise if code is changed at the remote
+ location that the local code was relying on. For this reason it is better for pull chnages to be done manually.
+
+Forks are clones on GitHub. They allow other users to make changes to repositories with out needing permision from the
+ owner. It also allows them to have their own version of the code when doing this. Cloneing is exactly as it sounds, 
+ it is used to make an exact copy of a repository or branch.
+
+The benifit of having a copy of the last known remote commit is that one can then merge it into the code that they have
+ been working. Being sure to take care of any possible merge violations quickly and at the local machine. This also allows
+ for this work to be done offline.
+
+Normally I would just work with my partner at the same time. This often seemed to be the only way to make sure there was 
+ no collison in the code. However this was very inefficient and time consuming as both of us were costrained to just using one machine.
+
+One would want to make changes in a separate branch rather than master most of the time when they are working in colaberation with many different people.
+ The reason for this is that when there are many people working on the master there come many issues with collion of code, that is code changes made by one user
+ that affect another. However if you are the only one making the changes to the master file of the code then it wont matter too much because you will be able to 
+ avoid these issues mentioned fairly easily.
+ 
