@@ -21,3 +21,9 @@ The result of merging two branches together is that we get the changes from one 
  this is benifitial because it allows one to quickly get a branch up-to-date with another version of the code.
  So productions and fixes to one part of the code can continue while others are tried out. 
 
+One pro of doing an auto merge is that it can take simple, none-conflicting merges and
+ complete them for you. The most major downside is that the developer has less control over what is going into the merge.
+ Another con is that the developer might not see a change that is being introduced that they didn't
+ approve of.
+
+
