@@ -6,3 +6,18 @@ The stating area is different form the working directory because it is like
  a snapshot of where your working directory is before a commit. This gives the
  user more flexablitly and control over what files a commit will change. 
 
+The staging area can be used to make more logical commits because one has to 
+ actively load it into the staging area, this makes it harder for that user to 
+ make a poorly sized commit. 
+
+Branches are a great tool to keep major changes seperate. As explained earilier 
+ one can continue to make changes and updates to a master while simitaniously adding new fetures for future releases. 
+
+The diagrams help me visualize the branch structure becasue they illistrate when the 
+ when the branch was made and when the changes were made. This helps show why some 
+ changes wont show up on different branches.
+
+The result of merging two branches together is that we get the changes from one brnach added to the changes to another,
+ this is benifitial because it allows one to quickly get a branch up-to-date with another version of the code.
+ So productions and fixes to one part of the code can continue while others are tried out. 
+
