@@ -4,26 +4,25 @@ When a repository is initialized git takes information about the repository,
 
 The stating area is different form the working directory because it is like 
  a snapshot of where your working directory is before a commit. This gives the
- user more flexablitly and control over what files a commit will change. 
+ user more flexibility and control over what files a commit will change. 
 
 The staging area can be used to make more logical commits because one has to 
  actively load it into the staging area, this makes it harder for that user to 
  make a poorly sized commit. 
 
-Branches are a great tool to keep major changes seperate. As explained earilier 
- one can continue to make changes and updates to a master while simitaniously adding new fetures for future releases. 
+Branches are a great tool to keep major changes separate. As explained earlier 
+ one can continue to make changes and updates to a master while simultaneously adding new features for future releases. 
 
-The diagrams help me visualize the branch structure becasue they illistrate when the 
+The diagrams help me visualize the branch structure because they illustrate when the 
  when the branch was made and when the changes were made. This helps show why some 
  changes wont show up on different branches.
 
-The result of merging two branches together is that we get the changes from one brnach added to the changes to another,
- this is benifitial because it allows one to quickly get a branch up-to-date with another version of the code.
+The result of merging two branches together is that we get the changes from one branch added to the changes to another,
+ this is beneficial because it allows one to quickly get a branch up-to-date with another version of the code.
  So productions and fixes to one part of the code can continue while others are tried out. 
 
 One pro of doing an auto merge is that it can take simple, none-conflicting merges and
  complete them for you. The most major downside is that the developer has less control over what is going into the merge.
  Another con is that the developer might not see a change that is being introduced that they didn't
  approve of.
-
 
